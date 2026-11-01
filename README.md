@@ -25,11 +25,3 @@ Contact:
   Email:        rahulthk1702@gmail.com
   LinkedIn:     rahul thakur
 ```
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <i>Building, breaking, learning, and shipping.</i>
-</p>
